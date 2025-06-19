@@ -1,5 +1,5 @@
 🚀 Project Setup Instructions
-🔹 Frontend (Angular)
+🔹 Frontend (Angular)-----------------
 1. Clone the Frontend Repository
 bash
 Copy
@@ -21,7 +21,13 @@ bash
 Copy
 Edit
 http://localhost:4200/login
-🔹 Backend (Django)
+
+
+
+
+
+
+🔹 Backend (Django)---------------------
 1. Clone the Backend Repository
 bash
 Copy
