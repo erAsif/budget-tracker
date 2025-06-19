@@ -37,5 +37,14 @@ password  Admin
 python manage.py  runserver
 
 http://127.0.0.1:8000/admin/  for admin login
+http://localhost:8000/admin/personal_tracker/category/add/   here you can create category   
+											Category Name	Type
+											Salary		income
+											Grocery		expense
+											Rent		expense
+											Freelance	income
+											Entertainment	expense
+
+
 http://127.0.0.1:8000/api/    for api page
 
